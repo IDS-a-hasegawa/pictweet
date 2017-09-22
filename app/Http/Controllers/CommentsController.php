@@ -8,7 +8,7 @@ use App\Http\Requests;
 use App\Comment;
 use Auth;
 
-class CommentsController extends Controller
+class CommentsController extends Controller aaaa
 {
     public function store($id, Request $request)
     {
